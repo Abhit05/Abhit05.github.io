@@ -5,7 +5,7 @@ permalink: /certifications/
 weight: 4
 ---
 
-###  Machine Learning  <br>
+###  Machine Learning/ Deep Learning  <br>
 <ul>
 	<li>Natural Language Processing Specialization</li>
 	<li>DeepLearning.AI TensorFlow Developer Specialization </li>
