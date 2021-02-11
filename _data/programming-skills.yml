@@ -1,11 +1,135 @@
-- name: HTML5/CSS3
+- name: Python
+  percentage: 95
+  color: success
+
+- name: Tensorflow
+  percentage: 80
+  color: dark
+
+- name: Pytorch
+  percentage: 80
+  color: success
+
+- name: Keras
+  percentage: 50
+  color: success
+
+- name: Machine Learning
   percentage: 90
   color: danger
 
-- name: Go
+- name: Deep Learning
   percentage: 80
-  color:
+  color: success
 
-- name: Python
+- name: NLP
+  percentage: 90
+  color: dark
+
+- name: Cloud Computing
+  percentage: 90
+  color: dark
+
+- name: GCP
+  percentage: 90
+  color: success
+
+- name: AWS
   percentage: 70
   color: dark
+
+- name: Pyspark
+  percentage: 80
+  color: dark
+
+- name: Hadoop (Big Data)
+  percentage: 60
+  color: dark
+
+- name: Raspberry Pi (Hardware)
+  percentage: 80
+  color: success
+
+- name: DJI Tello drone(Programming: Node.js)
+  percentage: 50
+  color: success
+
+- name: Web-Scraping
+  percentage: 60
+  color: dark
+
+- name: Django
+  percentage: 50
+  color: success
+
+- name: Streamlit
+  percentage: 70
+  color: dark
+
+- name: Spacy
+  percentage: 70
+  color: success
+
+- name: HTML5/CSS3
+  percentage: 70
+  color: danger
+
+- name: SQL
+  percentage: 60
+  color: success
+
+- name: R
+  percentage: 70
+  color: dark
+
+- name: Computer Vision
+  percentage: 80
+  color: dark
+
+- name: OpenCV
+  percentage: 75
+  color: dark
+
+- name: IOT
+  percentage: 40
+  color: dark
+
+- name: Network Security
+  percentage: 50
+  color: dark
+
+- name: Scikit-Learn
+  percentage: 80
+  color: success
+
+- name:  Data Visualisations
+  percentage: 75
+  color: dark
+
+- name:  Power BI
+  percentage: 75
+  color: dark
+
+- name: Github
+  percentage: 80
+  color: success
+
+- name: Visual SVN
+  percentage: 70
+  color: dark
+
+- name: TFLite,TFJS
+  percentage: 80
+  color: success
+
+- name: Java
+  percentage: 50
+  color: dark
+
+- name: C Programming
+  percentage: 50
+  color: info
+
+- name: Javascript
+  percentage: 50
+  color: success

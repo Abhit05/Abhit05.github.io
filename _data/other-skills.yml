@@ -1,7 +1,23 @@
+- name: Design & Analysis
+  percentage: 60
+  color: success
+
+- name: Research
+  percentage: 75
+  color: success
+
+- name: MS Office
+  percentage: 90
+  color: info
+
+- name: Project Management
+  percentage: 80
+  color: info
+
 - name: Adobe Photoshop
-  percentage: 95
+  percentage: 60
   color: info
 
 - name: Adobe Illustrator
-  percentage: 90
+  percentage: 50
   color: success
