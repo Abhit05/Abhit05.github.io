@@ -1,28 +1,30 @@
 - title: Data Analyst, E2Open Inc.
   from: 2019
   to: present
-  description: Reduced 1.5 FTE (Full-time employee) worth of additional manual effort/labour or 50 hours of manual work saved in a month with a success rate of 50% - 60% using NLP Techniques such as NER (Named Entity Recognition)
-               Created web-scraping scripts which used in congestion with different other Machine Learning Techniques such as string similarity to save nearly 25 - 30 hours of work on a weekly basis
-               Also, worked with a team member to develop a custom solution which helped to find duplicate pairs within ~ 100,000 – 200,000 of records based on different conditions
-               Implemented Automation Script for different daily manual repetitive work by 30%-35% percent.
-               Delivered innovative solutions, that reduce operational cost without compromising customer experience, using Machine Learning, Natural language Processing(NLP), predictive analytics and process automation.
+  description: Reduced 1.5 FTE (Full-time employee) worth of additional manual effort/labour or 50 hours of manual work saved in a month with a success rate of 50% - 60% using NLP Techniques such as NER (Named Entity Recognition).
+              Created web-scraping scripts which used in congestion with different other Machine Learning Techniques such as string similarity to save nearly 25 - 30 hours of work on a weekly basis.
+              Also, worked with a team member to develop a custom solution which helped to find duplicate pairs within ~ 100,000 – 200,000 of records based on different conditions.
+              Implemented Automation Script for different daily manual repetitive work by 30%-35% percent.
+              Delivered innovative solutions, that reduce operational cost without compromising customer experience, using Machine Learning, Natural language Processing(NLP), predictive analytics and process automation.
 
 
 - title: Student, Masters of Computer Science(MSc. CS),Mumbai University. GPA:9.00
   from: 2019
   to: 2021
-  description: Masters of Computer Science(MSc. CS)
+  description: Post-Graduation in Computer Science.[Specialization in Big Data and Cyber Security]
+              Gain Knowledge on Concept of Big Data,Cloud Computing, Cyber Security and its practical Implementation.
 
 - title: Project Trainee Intern (Machine Learning Team), Larsen and Turbo Infotech(LTI)
   from: 2019
   to: 2019
-  description: Building a retrieval-based chat-bot model using Python and TensorFlow, also integrate it with the existing system to reduce straight-forward query
-               Worked on support for regularly monitoring the process and service by querying the DB and combining and creating new queries to increase efficiency in work and save time
-               Documentation of the development process along with technical specification by coordinating with other interns
+  description: Building a retrieval-based chat-bot model using Python and TensorFlow, also integrate it with the existing system to reduce straight-forward query.
+               Worked on support for regularly monitoring the process and service by querying the DB and combining and creating new queries to increase efficiency in work and save time.
+               Documentation of the development process along with technical specification by coordinating with other interns.
                Created two documents on Flask deployment and process monitoring and triggering.
 
 
-- title: Student, Bachelors of Computer Science(BSc. CS),Mumbai University. GPA: 8.88
+- title: Student, Bachelors of Computer Science(BSc. CS),Mumbai University. GPA- 8.88
   from: 2016
   to: 2019
-  description: Bachelors of Computer Science(BSc. CS)
+  description: Graduation in Computer Science.
+              Core learnings include domains such as Artificial Intelligence, Data Science, Database Management Systems, IOT, Cloud Computing, etc.
