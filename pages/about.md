@@ -8,7 +8,8 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Results-driven computer science professional with good technical skills, firm grasp of business needs and understanding of user requirements gathering. Excellent communication and planning abilities. Familiar with gathering, cleaning and organizing data for use by technical and non-technical personnel.Highly organized, motivated and diligent with significant background in Data Science.
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
