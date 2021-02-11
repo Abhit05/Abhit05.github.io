@@ -1,6 +1,6 @@
 - name: Python
   percentage: 95
-  color: success
+  color: danger
 
 - name: Tensorflow
   percentage: 80
@@ -8,7 +8,7 @@
 
 - name: Pytorch
   percentage: 80
-  color: success
+  color: info
 
 - name: Keras
   percentage: 50
@@ -20,19 +20,19 @@
 
 - name: Deep Learning
   percentage: 80
-  color: success
+  color: dark
 
 - name: NLP
   percentage: 90
-  color: dark
+  color: info
 
 - name: Cloud Computing
   percentage: 90
-  color: dark
+  color: success
 
 - name: GCP
   percentage: 90
-  color: success
+  color: danger
 
 - name: AWS
   percentage: 70
@@ -40,23 +40,23 @@
 
 - name: Pyspark
   percentage: 80
-  color: dark
+  color: info
 
 - name: Hadoop (Big Data)
   percentage: 60
-  color: dark
+  color: success
 
 - name: Raspberry Pi (Hardware)
   percentage: 80
-  color: success
+  color: danger
 
 - name: DJI Tello drone(Programming- Node.js)
   percentage: 50
-  color: success
+  color: dark
 
 - name: Web-Scraping
   percentage: 60
-  color: dark
+  color: info
 
 - name: Django
   percentage: 50
@@ -64,15 +64,15 @@
 
 - name: Streamlit
   percentage: 70
-  color: dark
+  color: danger
 
 - name: Spacy
   percentage: 70
-  color: success
+  color: dark
 
 - name: HTML5/CSS3
   percentage: 70
-  color: danger
+  color: info
 
 - name: SQL
   percentage: 60
@@ -80,7 +80,7 @@
 
 - name: R
   percentage: 70
-  color: dark
+  color: danger
 
 - name: Computer Vision
   percentage: 80
@@ -88,31 +88,31 @@
 
 - name: OpenCV
   percentage: 75
-  color: dark
+  color:
 
 - name: IOT
   percentage: 40
-  color: dark
+  color: success
 
 - name: Network Security
   percentage: 50
-  color: dark
+  color: danger
 
 - name: Scikit-Learn
   percentage: 80
-  color: success
+  color: dark
 
 - name:  Data Visualisations
   percentage: 75
-  color: dark
+  color: info
 
 - name:  Power BI
   percentage: 75
-  color: dark
+  color: success
 
 - name: Github
   percentage: 80
-  color: success
+  color: danger
 
 - name: Visual SVN
   percentage: 70
@@ -124,12 +124,12 @@
 
 - name: Java
   percentage: 50
-  color: dark
+  color: info
 
 - name: C Programming
   percentage: 50
-  color: info
+  color: danger
 
 - name: Javascript
   percentage: 50
-  color: success
+  color: dark
