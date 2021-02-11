@@ -21,7 +21,6 @@ weight: 4
 <li>Cloud Computing with AWS by Great Learning </li>
 <li>AWS Machine Learning (Beginner) </li>
 </ul>
-<br>
 ### Big Data  <br>
 <ul>
 <li>Hadoop Programming</li>
